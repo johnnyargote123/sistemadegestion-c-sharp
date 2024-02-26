@@ -1,0 +1,12 @@
+C:\Users\Rentadvisor\source\repos\WebApiSistemaGestion\SistemaGestionDTO\bin\Debug\net6.0\SistemaGestionDTO.deps.json
+C:\Users\Rentadvisor\source\repos\WebApiSistemaGestion\SistemaGestionDTO\bin\Debug\net6.0\SistemaGestionDTO.dll
+C:\Users\Rentadvisor\source\repos\WebApiSistemaGestion\SistemaGestionDTO\bin\Debug\net6.0\SistemaGestionDTO.pdb
+C:\Users\Rentadvisor\source\repos\WebApiSistemaGestion\SistemaGestionDTO\obj\Debug\net6.0\SistemaGestionDTO.csproj.AssemblyReference.cache
+C:\Users\Rentadvisor\source\repos\WebApiSistemaGestion\SistemaGestionDTO\obj\Debug\net6.0\SistemaGestionDTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rentadvisor\source\repos\WebApiSistemaGestion\SistemaGestionDTO\obj\Debug\net6.0\SistemaGestionDTO.AssemblyInfoInputs.cache
+C:\Users\Rentadvisor\source\repos\WebApiSistemaGestion\SistemaGestionDTO\obj\Debug\net6.0\SistemaGestionDTO.AssemblyInfo.cs
+C:\Users\Rentadvisor\source\repos\WebApiSistemaGestion\SistemaGestionDTO\obj\Debug\net6.0\SistemaGestionDTO.csproj.CoreCompileInputs.cache
+C:\Users\Rentadvisor\source\repos\WebApiSistemaGestion\SistemaGestionDTO\obj\Debug\net6.0\SistemaGestionDTO.dll
+C:\Users\Rentadvisor\source\repos\WebApiSistemaGestion\SistemaGestionDTO\obj\Debug\net6.0\refint\SistemaGestionDTO.dll
+C:\Users\Rentadvisor\source\repos\WebApiSistemaGestion\SistemaGestionDTO\obj\Debug\net6.0\SistemaGestionDTO.pdb
+C:\Users\Rentadvisor\source\repos\WebApiSistemaGestion\SistemaGestionDTO\obj\Debug\net6.0\ref\SistemaGestionDTO.dll

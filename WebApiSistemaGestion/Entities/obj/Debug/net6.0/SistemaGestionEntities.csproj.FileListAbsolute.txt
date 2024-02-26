@@ -1,0 +1,14 @@
+C:\Users\Rentadvisor\source\repos\WebApiSistemaGestion\Entities\bin\Debug\net6.0\SistemaGestionEntities.deps.json
+C:\Users\Rentadvisor\source\repos\WebApiSistemaGestion\Entities\bin\Debug\net6.0\SistemaGestionEntities.runtimeconfig.json
+C:\Users\Rentadvisor\source\repos\WebApiSistemaGestion\Entities\bin\Debug\net6.0\SistemaGestionEntities.dll
+C:\Users\Rentadvisor\source\repos\WebApiSistemaGestion\Entities\bin\Debug\net6.0\SistemaGestionEntities.pdb
+C:\Users\Rentadvisor\source\repos\WebApiSistemaGestion\Entities\obj\Debug\net6.0\SistemaGestionEntities.csproj.AssemblyReference.cache
+C:\Users\Rentadvisor\source\repos\WebApiSistemaGestion\Entities\obj\Debug\net6.0\SistemaGestionEntities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rentadvisor\source\repos\WebApiSistemaGestion\Entities\obj\Debug\net6.0\SistemaGestionEntities.AssemblyInfoInputs.cache
+C:\Users\Rentadvisor\source\repos\WebApiSistemaGestion\Entities\obj\Debug\net6.0\SistemaGestionEntities.AssemblyInfo.cs
+C:\Users\Rentadvisor\source\repos\WebApiSistemaGestion\Entities\obj\Debug\net6.0\SistemaGestionEntities.csproj.CoreCompileInputs.cache
+C:\Users\Rentadvisor\source\repos\WebApiSistemaGestion\Entities\obj\Debug\net6.0\SistemaGestionEntities.dll
+C:\Users\Rentadvisor\source\repos\WebApiSistemaGestion\Entities\obj\Debug\net6.0\refint\SistemaGestionEntities.dll
+C:\Users\Rentadvisor\source\repos\WebApiSistemaGestion\Entities\obj\Debug\net6.0\SistemaGestionEntities.pdb
+C:\Users\Rentadvisor\source\repos\WebApiSistemaGestion\Entities\obj\Debug\net6.0\SistemaGestionEntities.genruntimeconfig.cache
+C:\Users\Rentadvisor\source\repos\WebApiSistemaGestion\Entities\obj\Debug\net6.0\ref\SistemaGestionEntities.dll
